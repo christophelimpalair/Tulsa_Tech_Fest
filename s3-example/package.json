@@ -1,0 +1,15 @@
+{
+  "name": "create-thumbnail",
+  "version": "1.0.0",
+  "description": "Creates thumbnail of an image uploaded to S3",
+  "main": "createThumbnails.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.11.0"
+  }
+}
